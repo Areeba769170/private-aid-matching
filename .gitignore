@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Data — never commit real or generated biometric data
+data/
+*.csv
+*.npy
+*.npz
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
